@@ -1,0 +1,31 @@
+* {
+  font-family: 'Sirin Stencil', cursive;
+}
+
+body{
+  background: black;
+  background-image: url(./img/7YX6.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  color: white;
+  margin: auto;
+  text-align: center;
+  border: 5px solid cornflowerblue;
+  width: 475px;
+  height: 640px;
+  border-radius: 45px;
+}
+
+button {
+  border: 1.5px solid black;
+  padding: 5px;
+  background: lightblue;
+  border-radius: 7px;
+}
+
+.imgContainer {
+  width: 8rem;
+}
